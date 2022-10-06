@@ -12,6 +12,7 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
     - Promedio = sumaDeCalificaciones / totalDeCalificaciones
     Salida: 
     -Resumen de los datos del estudiante con su promedio
+    
     ~~~
     +------------------------------------------------------+
     |- Estudiante: Arturo Salgado Vázquez                  |
